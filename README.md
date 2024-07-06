@@ -5,4 +5,4 @@ Git repository for techlabs data science team 2
  - Meeting at Ruby Carl Workspace
  - Setup of Github repository
  - Setup of Github project
- - Introduction to data (?)
+ - patrick (mentor) wasn't here
