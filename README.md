@@ -7,7 +7,7 @@ Git repository for techlabs data science team 2
  - Setup of Github project
  - Patrick (mentor), Irem and Taqi weren't here
 
-18.07.-2024:
+18.07.2024:
  - Zoom meeting with Patrick
  - Irem couldn´t make it
  - Discussing our topic:
