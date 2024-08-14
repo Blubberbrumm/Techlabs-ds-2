@@ -18,7 +18,7 @@ Git repository for techlabs data science team 2
      What is more costly? Tell people they´re diabetic even if they´re not? Or tell sick people they don´t have diabetis?
      What classifiers in target? WEhat is ouir target? Find out online what the cost of wrong classification are.
 
-  - other group fiocusses how to make model fair, we analyze how cost effective moidel is
+  - other group focusses how to make model fair, we analyze how cost effective moidel is
   - The Data:
      Zip file has 5 pickle files, very big files, regular data loading methods might be slow. If Panda is too slow, we can use polars, newer version that is faster, can use sql and other formats       
   - Which method do we want to use?
