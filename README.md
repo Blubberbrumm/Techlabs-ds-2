@@ -39,6 +39,11 @@ Git repository for techlabs data science team 2
       -    -> use machine learning algorithm for input
       -   randomforestclassifier  (sklearn, unter scikit-learn)
    - understand linear regression and decision tree to get better understanding of more evolved algorithms
-   
-       
+
+   14.08.2024:
+   - Source data in Repo
+   - Other folder to merge Data 
+   - different branches for each task (ex. cleanup data, get new folder called clean data). After finished merge to show others what it looks like
+   - 
+        
 
