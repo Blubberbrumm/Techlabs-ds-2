@@ -48,6 +48,7 @@ Git repository for techlabs data science team 2
 
 
   22.08.2024:
+  
   		-> we want to forecast, not analyse
 		-> we do not have many features, we should use all of them and let model decide what it is
 - group labels should be explained for different parameters
