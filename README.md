@@ -62,19 +62,20 @@ Git repository for techlabs data science team 2
 			-> balanced doesn´t use random subsamples, it uses a balanced 
 			-> leave randomstate completely out of hyperparameter tuning 
 - confusion Matrix: 
-	We now have 6 classes, but many are probably not useful
-	do as patrick said: drop everything but 3 and 1. 3: no diabetes, 1 having diabnetes from eating 3
+	We now have 6 classes, but many are probably not useful do as
+	Patrick said: drop everything but 3 and 1. 3: no diabetes, 1 having diabetes from eating 
 
 
 What patrick told us to do:
-	-Do not drop features beforehand
-	-let the model decide 1st
-	-stratifieldkfold together with a RandomsearchCV
-		->look if randomsearchcv needs stratifield kfold as a direct parameter
-	-use hyperparamters of the randomforest
-	-give it a useful range for the randomsearchcv to look choose from
-	-Drop everything frokm diabetes target which is not 3 or 1
-	-we predict who doesn´t have diabetes, but we don´t want that.
+- Do not drop features beforehand
+- let the model decide 1st
+ 
+- stratifieldkfold together with a RandomsearchCV
+	->look if randomsearchcv needs stratifield kfold as a direct parameter
+- use hyperparamters of the randomforest
+- give it a useful range for the randomsearchcv to look choose from
+- Drop everything frokm diabetes target which is not 3 or 1
+- we predict who doesn´t have diabetes, but we don´t want that.
 	
 
 Presentation from Patrick:
